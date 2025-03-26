@@ -1,4 +1,4 @@
-# This is my solution to a homework assignment on a topic "Requests and Templates"
+This is my solution to a homework assignment on a topic "Requests and Templates"
 
 # Рецепты
 
