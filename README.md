@@ -1,3 +1,5 @@
+# This is my solution to a homework assignment on a topic "Requests and Templates"
+
 # Рецепты
 
 ## Задание
